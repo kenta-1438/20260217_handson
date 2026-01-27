@@ -1,3 +1,5 @@
+# Escapeボタンが押されるまでの間,1秒おきにマウスカーソルの場所を取得する。
+
 import pyautogui as pag
 import keyboard as kb
 import sys
