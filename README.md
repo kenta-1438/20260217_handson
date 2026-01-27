@@ -13,6 +13,7 @@ keyboard      0.13.5
 MouseInfo     0.1.3
 numpy         2.4.1
 opencv-python 4.13.0.90
+pillow        12.1.0
 pip           25.3
 PyAutoGUI     0.9.54
 PyGetWindow   0.0.9
